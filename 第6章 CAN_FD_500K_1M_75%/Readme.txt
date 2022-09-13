@@ -21,10 +21,7 @@ VPW_IN    PA1   TIMER1_CH1
 PWM_OUT  PB6  TIMER3_CH0
 VPM_OUT   PB7  TIMER3_CH1
 
-例子:
-USB 虚拟串口测试，速度500k 左右，不丢帧
-帧格式:
-55 AA LEN(2 BYTE)+DATA....
+
 
 硬件地址
 https://shop100592026.taobao.com/
